@@ -1,0 +1,3 @@
+Back-end:
+Możliwość umieszczenia kalendarza jako kod - (opcjonalnie)
+Stripe
